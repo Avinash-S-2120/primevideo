@@ -1,0 +1,90 @@
+.mainlogo
+{
+    width: 100px;
+}
+
+.mainlogoimg
+{
+    width: 130px;
+}
+.profileicon
+{
+    width: 40px;
+    margin-left: 20px;
+}
+body
+{
+    background-color: rgb(10, 6, 33);
+    padding-bottom: 500px;
+}
+.navcolorset
+{
+    background-color: #151e27;;
+}
+.videoheadingtitle
+{
+    color: white;
+    margin-left: 48px;
+    margin-top: 30px;
+    font-size: 19px;
+    font-weight: 800;
+}
+.videocontainer
+{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.videoimage
+{
+    border-radius: 7px;
+    width: 100%;
+    
+    
+}
+.languagecontainer
+{
+    display: flex;
+    margin-left: 60px;
+    margin-right: 60px;
+    
+
+    
+}
+@media only screen and (max-width: 991px){
+    
+  .languagecontainer{
+      display: block;
+  }
+}
+
+.languagecontainer1
+{
+    display: flex;
+    
+    
+}
+.languagecontainer2
+{
+    display: flex;
+  
+    
+}
+.langimg
+{
+    width: 100%;
+    border-radius: 9px;
+    padding: 4px;
+}
+.langimgcontainer
+{
+    position: relative;
+}
+.langname
+{
+    position: absolute;
+    color: white;
+    bottom: 7px;
+    left: 10px;
+    font-weight: 600;
+    
+}
